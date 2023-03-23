@@ -1,3 +1,6 @@
+# digital Signature
+# set API interface for user input or piped program
+
 from fpdf import FPDF 
  
 pdf = FPDF() 
