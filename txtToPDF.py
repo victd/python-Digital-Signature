@@ -1,5 +1,6 @@
 # digital Signature
 # set API interface for user input or piped program
+# implement handling of security certificates
 
 from fpdf import FPDF 
  
