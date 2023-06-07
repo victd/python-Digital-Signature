@@ -4,6 +4,7 @@
 # implement handling of security certificates
 # Personal Information Protection and Electronic Documents Act PIPEDA
 # retention and purge of > 2 year old customer data
+# drag and drop of logos easier in python FPDF than in DocuSign
 
 from fpdf import FPDF 
  
