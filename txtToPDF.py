@@ -1,6 +1,7 @@
 # digital Signature
 # set API interface for user input or piped program
-# custom workflow, streamlined
+# custom sales workflow, streamlined
+# allow backward flow for envelope corrections 
 # implement handling of security certificates
 # Personal Information Protection and Electronic Documents Act PIPEDA
 # retention and purge of > 2 year old customer data
