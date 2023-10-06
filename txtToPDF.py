@@ -8,6 +8,7 @@
 # drag and drop of logos easier in python FPDF than in DocuSign, and Adobe DC seems
 # seems to compartmentalize the logos as shapes and text, segregated
 # Sign Now also has API and software integration, dev sandbox, repository
+# pipedrive integration, the envelopes originate from pipedrive.  No DocuSign templates
 
 from fpdf import FPDF 
  
