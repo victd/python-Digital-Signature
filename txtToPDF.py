@@ -9,6 +9,7 @@
 # seems to compartmentalize the logos as shapes and text, segregated
 # Sign Now also has API and software integration, dev sandbox, repository
 # pipedrive integration, the envelopes originate from pipedrive.  No DocuSign templates
+# but the customer data can be easily populated into the form
 
 from fpdf import FPDF 
  
